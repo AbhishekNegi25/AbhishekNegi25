@@ -1,7 +1,7 @@
 <p>
 <h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
 </p><p align="right"> <img src="https://komarev.com/ghpvc/?username=Abhishek25081999&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek25081999" /> </p>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-n-b9854113a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" /></a>
+ <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" /></a>
  <a href="discordapp.com/users/1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discordapp.com/users/1025373550577725450" /></a>
 
 ### :briefcase: Work
