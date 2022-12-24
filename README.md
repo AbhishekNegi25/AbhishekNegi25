@@ -1,8 +1,11 @@
 <p>
 <h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
 </p><p align="right"> <img src="https://komarev.com/ghpvc/?username=Abhishek25081999&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek25081999" /> </p>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-n-b9854113a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" height="30" width="40" /></a>
+# How to reach me 
+    <p align="center">
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-n-b9854113a/" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" /></a>
+</p>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-n-b9854113a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" height="30" width="40" /></a> -->
 
 ### :briefcase: Work
 
@@ -17,7 +20,12 @@
 </div>
   
 # :rocket: Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,docker,php,laravel,js,spring boot," />
+      <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap" />
+  </a>
+</p>
 
 
 # 💻Terminal
