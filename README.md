@@ -10,7 +10,7 @@
  <a href="discordapp.com/users/1025373550577725450." target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discordapp.com/users/1025373550577725450" /></a>
 <img align="center" src="https://skillicons.dev/icons?i=instagram" />
 
-### :briefcase: Work
+# :briefcase: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
