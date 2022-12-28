@@ -1,6 +1,6 @@
 <p>
 <h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
-</p><p align="right"> <img src="https://komarev.com/ghpvc/?username=Abhishek25081999&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek25081999" /> </p>
+</p><img src="https://komarev.com/ghpvc/?username=Abhishek25081999&label=Profile%20views&color=0e75b6&style=flat" align="right"alt="Abhishek25081999" /> 
  
  
  
@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,docker,php,laravel,js,spring boot,"/>
-      <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap"/>
+      <img src="https://skillicons.dev/icons?i=java,css,react,mysql,bootstrap"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
 </p>
 
