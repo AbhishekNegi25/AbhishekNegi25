@@ -6,7 +6,7 @@
  
  🧍How to reach me:
  </br></br>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-n-b9854113a/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhisheknegi1289198511" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https:/www.linkedin.com/in/abhisheknegi1289198511" /></a>
  <a href="discordapp.com/users/1025373550577725450." target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discordapp.com/users/1025373550577725450" /></a>
 <img align="center" src="https://skillicons.dev/icons?i=instagram" />
 
