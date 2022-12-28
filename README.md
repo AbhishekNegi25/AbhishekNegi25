@@ -25,9 +25,9 @@
 # :rocket: Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,docker,php,laravel,js,spring boot," />
-      <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,html,docker,php,laravel,js,spring boot,"/>
+      <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
 </p>
 
 
@@ -38,8 +38,6 @@
 ![windows%20terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&theme=blue-green) -->
-
 # 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -47,4 +45,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek25081999&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek25081999&theme=tokyonight" />
+<!--  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
+
+
