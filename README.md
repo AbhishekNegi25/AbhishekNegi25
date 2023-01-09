@@ -24,11 +24,10 @@
 </div>
   
 # :rocket: Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=,html,php,laravel,js,spring boot,"/>
-      <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap,mysql"/>
-</p>
+      <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap,mysql" />
+</div>
 
 
 # 💻Tools:
@@ -36,14 +35,11 @@
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![windows%20terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) -->
- <p align="center">
-  <a href="https://skillicons.dev">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,figma" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
+</div>
 
-
-  </a>
-</p>
 
 <!-- # Database:
  <p align="center">
