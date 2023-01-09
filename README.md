@@ -1,6 +1,7 @@
+<div align="center"><img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></div>
 <p>
 <h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
-</p><img src="https://komarev.com/ghpvc/?username=Abhishek25081999&label=Profile%20views&color=0e75b6&style=flat" align="right"alt="Abhishek25081999" /> 
+</p> 
  
  
  
