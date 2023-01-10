@@ -25,7 +25,7 @@
   
 # :rocket: Tech Stack
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,php,laravel,js,spring boot,"/>
+    <img src="https://skillicons.dev/icons?i=html,php,laravel,js,spring boot,"/>
       <img src="https://skillicons.dev/icons?i=java,css,react,bootstrap,mysql" />
 </div>
 
