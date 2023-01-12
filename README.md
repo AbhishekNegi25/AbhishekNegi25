@@ -55,6 +55,7 @@
 
 # 📊GitHub Stats :
 <p align="center">
+ ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek25081999&show_icons=true&theme=tokyonight)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek25081999&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek25081999&theme=tokyonight" />
 <!--  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&layout=compact&theme=tokyonight&hide_border=true" /> -->
