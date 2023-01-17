@@ -35,11 +35,14 @@
 </div>
 
 # 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2370A5FD&aColor=%23BF91F3&borderColor=%2338BDAE )
+<!-- https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0 -->
 
 # 📊GitHub Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek25081999&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek25081999&theme=tokyonight" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999)](https://github.com/anuraghazra/github-readme-stats)
 
