@@ -23,8 +23,7 @@
   
 # :rocket: Tech Stack
 <div align="center">
- <div href="https://html.com/"> <img src="https://skillicons.dev/icons?i=html"/> </div>
-<!--     <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/> -->
+    <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/>
     <img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
     <img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
     <img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=js"/>
@@ -39,8 +38,8 @@
 
 # 💻Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icon?i=git,vscode,idea,docker,powershell,bash,figma" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
+    <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,figma"/>
 </div>
 
 # 😂 Here is a random joke that'll make you laugh!
