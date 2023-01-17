@@ -16,9 +16,9 @@
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek25081999&theme=react-dark)](https://github.com/Abhishek25081999/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek25081999&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Abhishek25081999&row=4&theme=tokyonight&no-frame=true"/>
     </a>
@@ -69,7 +69,8 @@
 # 📊GitHub Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek25081999&theme=tokyonight" />
-<!--  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&layout=compact&theme=tokyonight&hide_border=true" /> -->
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek25081999&theme=tokyonight" /> -->
+<!--  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek25081999&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <!-- ![Snake animation](https://github.com/Abhishek25081999/Abhishek25081999/blob/output/github-contribution-grid-snake.svg) -->
