@@ -23,7 +23,8 @@
   
 # :rocket: Tech Stack
 <div align="center">
-    <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/>
+ <div href="https://html.com/"> <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/> </div>
+<!--     <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/> -->
     <img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
     <img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
     <img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=js"/>
