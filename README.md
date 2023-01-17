@@ -35,7 +35,7 @@
 </div>
 
 # 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2370A5FD&aColor=%23BF91F3&borderColor=%2338BDAE )
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2338BDAE&aColor=%2338BDAE&borderColor=%2370A5FD )
 <!-- https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0 -->
 
 # 📊GitHub Stats :
