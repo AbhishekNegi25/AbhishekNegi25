@@ -45,8 +45,4 @@
 # 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2338BDAE&aColor=%2338BDAE&borderColor=%2370A5FD)
 
-# 📊GitHub Stats :
-<p align="center">
-  <img width= 48% src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek25081999&theme=tokyonight" />
-  <img width= 48% src="https://github-readme-stats.vercel.app/api?username=Abhishek25081999&show_icons=true&theme=tokyonight" />
-</p>
+
