@@ -42,7 +42,8 @@
     <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,figma"/>
 </div>
 
-
+# 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2338BDAE&aColor=%2338BDAE&borderColor=%2370A5FD)
 
 # 📊GitHub Stats :
 <p align="center">
