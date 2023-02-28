@@ -1,7 +1,5 @@
 <div align="center"><img src="https://github.com/Abhishek25081999/Abhishek25081999/blob/main/background.jpg"></div>
-<p>
-<h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
-</p> 
+<
  
  🧍How to reach me:
  </br></br>
