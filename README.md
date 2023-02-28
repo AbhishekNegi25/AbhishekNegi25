@@ -23,7 +23,18 @@
 </div>
   
 # :rocket: Tech Stack
-
+<div align="center">
+    <img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/>
+    <img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
+    <img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
+    <img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=js"/>
+    <img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=spring boot"/>
+    <img href="https://getbootstrap.com/" target="blank" src="https://skillicons.dev/icons?i=bootstrap"/>
+    <img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=css"/>
+    <img href="https://reactjs.org/" target="blank" src="https://skillicons.dev/icons?i=react"/>
+    <img href="https://www.mysql.com/" target="blank" src="https://skillicons.dev/icons?i=mysql"/>
+    <img href="https://www.java.com/en/" target="blank" src="https://skillicons.dev/icons?i=java"/>
+</div>
 
 
 # 💻Tools:
