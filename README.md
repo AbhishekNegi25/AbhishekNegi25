@@ -23,7 +23,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABHlSHEK-NEGI&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABHlSHEK-NEGI&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
