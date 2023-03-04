@@ -21,7 +21,9 @@
 # :briefcase: Work
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graphusername=ABHlSHEKNEGI&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABHlSHEK-NEGI&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
