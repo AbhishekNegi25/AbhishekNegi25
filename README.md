@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/ABHlSHEK-NEGI/Abhishek25081999/blob/main/background.jpg">
+	<img src="https://github.com/ABbhishek-Negii/Abhishek25081999/blob/main/background.jpg">
 </div>
 <p>
 	<h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
@@ -21,11 +21,11 @@
 # :briefcase: Work
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABHlSHEK-NEGI&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABbhishek-Negii&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ABHlSHEK-NEGI&row=4&theme=tokyonight&no-frame=true"/>
+		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ABbhishek-Negii&row=4&theme=tokyonight&no-frame=true"/>
 	</a>
 </div>
   
@@ -55,6 +55,6 @@
 
 # 📊GitHub Stats :
 <p align="center">
-  <img width= 48% src="https://github-readme-streak-stats.herokuapp.com/?user=ABHlSHEK-NEGI&theme=tokyonight" />
-  <img width= 48% src="https://github-readme-stats.vercel.app/api?username=ABHlSHEK-NEGI&show_icons=true&theme=tokyonight" />
+  <img width= 48% src="https://github-readme-streak-stats.herokuapp.com/?user=ABbhishek-Negii&theme=tokyonight" />
+  <img width= 48% src="https://github-readme-stats.vercel.app/api?username=ABbhishek-Negii&show_icons=true&theme=tokyonight" />
 </p>
