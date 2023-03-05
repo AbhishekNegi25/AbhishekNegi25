@@ -47,7 +47,7 @@
 # 💻Tools:
 <div align="center">
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
-	<img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,figma"/>
+	<img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,figma,gitlab"/>
 </div>
 
 # 😂 Here is a random joke that'll make you laugh!
