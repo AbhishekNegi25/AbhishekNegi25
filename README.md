@@ -30,8 +30,6 @@
 		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ABHlSHEK-NEGI&row=4&theme=tokyonight&no-frame=true"/>
 	</a>
 </div>
-
-
   
 # :rocket: Tech Stack
 <div align="center">
