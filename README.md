@@ -25,11 +25,7 @@
 
 [![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABHlSHEK-NEGI&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ABHlSHEK-NEGI&row=4&theme=tokyonight&no-frame=true"/>
-	</a>
-</div>
+<
   
 # :rocket: Tech Stack
 <div align="center">
