@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/Abhishek-Negii/Abhishek25081999/blob/main/background.jpg">
+	<img src="https://github.com/Abhishek-Negii/Abhishek-Negii/blob/main/background.jpg">
 </div>
 <p>
 	<h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
