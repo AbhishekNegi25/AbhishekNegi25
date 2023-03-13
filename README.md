@@ -21,11 +21,11 @@
 # :briefcase: Work
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-Negii&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbhishekNegi25&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Abhishek-Negii&row=4&theme=tokyonight&no-frame=true"/>
+		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AbhishekNegi25&row=4&theme=tokyonight&no-frame=true"/>
 	</a>
 </div>
   
@@ -55,6 +55,6 @@
 
 # 📊GitHub Stats :
 <p align="center">
-  <img width= 48% src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Negii&theme=tokyonight" />
-  <img width= 48% src="https://github-readme-stats.vercel.app/api?username=Abhishek-Negii&show_icons=true&theme=tokyonight" />
+  <img width=48% src="https://streak-stats.demolab.com/?user=AbhishekNegi25&theme=tokyonight" />
+  <img width= 48% src="https://github-readme-stats.vercel.app/api?username=AbhishekNegi25&show_icons=true&theme=tokyonight" />
 </p>
