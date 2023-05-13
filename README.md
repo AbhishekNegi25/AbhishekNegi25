@@ -11,7 +11,7 @@
 																				   alt="https:/www.linkedin.com/in/abhisheknegi1289198511/" /></a>
 <a href="https://stackoverflow.com/users/20020746/abhishek-negi" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=stackoverflow"
 																					   alt="https://stackoverflow.com/users/20020746/abhishek-negi" /></a>
-<a href="discordapp.com/users/1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" 
+<a href="1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" 
 																	   alt="discordapp.com/users/1025373550577725450" /></a>
 <a href="https://www.instagram.com/n.egi_25/" target="blank"><img align="center" 
 																  src="https://skillicons.dev/icons?i=instagram" /></a>
