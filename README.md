@@ -3,6 +3,7 @@
 </div>
 <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+This+is+Abhishek+Negi+;Welcome+to+my+profile" alt="Typing SVG" /></a>
+</div>
 </br></br>
 <a href="https://www.linkedin.com/in/abhisheknegi1289198511/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin"
 																				   alt="https:/www.linkedin.com/in/abhisheknegi1289198511/" /></a>
