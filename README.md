@@ -1,11 +1,8 @@
 <div align="center">
 	<img src="https://github.com/Abhishek-Negii/Abhishek-Negii/blob/main/background.jpg">
 </div>
-<p>
-	<h1 align="center">Hi  I'm Abhishek Negi :wave: <h1>
-</p> 
- 
- 🧍How to reach me:
+<div align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+This+is+Abhishek+Negi+;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </br></br>
 <a href="https://www.linkedin.com/in/abhisheknegi1289198511/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin"
 																				   alt="https:/www.linkedin.com/in/abhisheknegi1289198511/" /></a>
