@@ -18,9 +18,7 @@
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekNegi25&theme=github-compact)](https://github.com/AbhishekNegi25/github-readme-activity-graph)
 
 <div align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AbhishekNegi25&row=4&theme=tokyonight&no-frame=true"/>
-	</a>
+	<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AbhishekNegi25&row=4&theme=tokyonight&no-frame=true"/>
 </div>
   
 # :rocket: Tech Stack
