@@ -8,7 +8,7 @@
 </br></br>
 <a href="https://www.linkedin.com/in/abhisheknegi1289198511/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" target="blank" alt="https:/www.linkedin.com/in/abhisheknegi1289198511/" /></a>
 <a href="https://stackoverflow.com/users/20020746/abhishek-negi" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/20020746/abhishek-negi" /></a>
-<a href="1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discordapp.com/users/1025373550577725450" /></a>
+<a href="1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord.com/users/1025373550577725450" /></a>
 <a href="https://www.instagram.com/n.egi_25/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://twitter.com/hey_negi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://gitlab.com/AbhishekNegi25" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gitlab"/> </a>
