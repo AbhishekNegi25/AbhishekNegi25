@@ -11,6 +11,7 @@
 <a href="1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discordapp.com/users/1025373550577725450" /></a>
 <a href="https://www.instagram.com/n.egi_25/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://twitter.com/hey_negi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://gitlab.com/AbhishekNegi25" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gitlab"/> </a>
 
 # :briefcase: Work
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
