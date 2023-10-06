@@ -28,7 +28,10 @@
 	<img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
 	<img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
 	<img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=js"/>
+	<img href="https://laravel.com/" target="blank" src="https://skillicons.dev/icons?i=laravel"/>
+	<img href="https://www.javascript.com/" target="blank" src="https://skillicons.dev/icons?i=nodejs"/>
   	<img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=spring boot"/>
+  	<img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=graphql"/>
 	<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
 	<img href="https://getbootstrap.com/" target="blank" src="https://skillicons.dev/icons?i=bootstrap"/>
 	<img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=css"/>
