@@ -34,6 +34,8 @@
   	<img href="https://spring.io/" target="blank" src="https://skillicons.dev/icons?i=postgres"/>
 	<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
 	<img href="https://getbootstrap.com/" target="blank" src="https://skillicons.dev/icons?i=bootstrap"/>
+	<img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=python"/>
+	<img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=flask"/>
 	<img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=css"/>
     	<img href="https://reactjs.org/" target="blank" src="https://skillicons.dev/icons?i=react"/>
     	<img href="https://www.mysql.com/" target="blank" src="https://skillicons.dev/icons?i=mysql"/>
