@@ -1,11 +1,3 @@
-<div align="center">
-	<img src="https://github.com/Abhishek-Negii/Abhishek-Negii/blob/main/background.jpg">
-</div>
-
-<div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=39&pause=1000&color=26A641&width=650&height=90&lines=Hi+there!+I'm+Abhishek+Negi;Welcome+to+my+profile" alt="Typing SVG" /></a>
-</div>
-</br></br>
 <a href="https://www.linkedin.com/in/abhisheknegi1289198511/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" target="blank" alt="https:/www.linkedin.com/in/abhisheknegi1289198511/" /></a>
 <a href="https://stackoverflow.com/users/20020746/abhishek-negi" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/20020746/abhishek-negi" /></a>
 <a href="1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord.com/users/1025373550577725450" /></a>
@@ -22,7 +14,7 @@
 	<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AbhishekNegi25&row=4&theme=tokyonight&no-frame=true"/>
 </div>
   
-# :rocket: Tech Stack
+<!-- # :rocket: Tech Stack
 <div align="center">
 	<img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=html"/>
 	<img href="https://www.php.net/" target="blank" src="https://skillicons.dev/icons?i=php"/>
@@ -39,17 +31,16 @@
 	<img href="https://www.w3.org/Style/CSS/" target="blank" src="https://skillicons.dev/icons?i=css"/>
     	<img href="https://reactjs.org/" target="blank" src="https://skillicons.dev/icons?i=react"/>
     	<img href="https://www.mysql.com/" target="blank" src="https://skillicons.dev/icons?i=mysql"/>
+    	<img href="https://www.mysql.com/" target="blank" src="https://skillicons.dev/icons?i=react-native"/>
     	<img href="https://www.java.com/en/" target="blank" src="https://skillicons.dev/icons?i=java"/>
 </div>
 
 # 💻Tools:
 <div align="center">
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" hight="50"/>
-	<img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,figma,gitlab"/>
+	<img href="https://html.com/" target="blank" src="https://skillicons.dev/icons?i=git,vscode,idea,docker,powershell,bash,gitlab"/>
 </div>
-
-# 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2338BDAE&aColor=%2338BDAE&borderColor=%2370A5FD)
+-->
 
 # 📊GitHub Stats :
 <p align="center">
